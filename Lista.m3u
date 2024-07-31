@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="teleAmazonas.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",ABP Ananda (1080p) [Not 24/7]
 https://live-b.cf.dmcdn.net/sec2(Irm-hNw0e94THMKc_wpApd4bSO-FZFhCrxAlKd4VmrhSEtPU2n-ppOb4aQVLFN-ygFMQ8w52UdcO8ygnOqHee7A554Niu7qjMxobJXAeoa0)/dm/3/x7wijay/d/live-720.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",ABP Ananda (1080p) [Not 24/7]
+https://bwfrzq.la10tv.com/dsports_eventos/tracks-v1a1/mono.m3u8?remote=131.196.12.248&token=14757010272f7ab7aac65e3202d11de883dcc3c6-8a891d57bc58f1b5634ea82199f17cfd-1722423102-1722387102
