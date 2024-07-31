@@ -5,3 +5,5 @@ https://bwfrzq.la10tv.com/dsports_eventos/tracks-v1a1/mono.m3u8?remote=131.196.1
 https://live-b.cf.dmcdn.net/sec2(Irm-hNw0e94THMKc_wpApd4bSO-FZFhCrxAlKd4VmrhSEtPU2n-ppOb4aQVLFN-ygFMQ8w52UdcO8ygnOqHee7A554Niu7qjMxobJXAeoa0)/dm/3/x7wijay/d/live-720.m3u8
 #EXTINF:-1 tvg-id="RTS.in" tvg-logo="https://www.rts.com.ec/wp-content/uploads/2023/07/logo.png" group-title="ECUADOR",ABP Ananda (1080p) [Not 24/7]
 https://alba-ec-rts-rts.stream.mediatiquestream.com/480p.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",ABP Ananda (1080p) [Not 24/7]
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8?dpssid=4d75654daeb2d6eaacec308eba313577&ndvc=0&sid=ba5t1l1xb477973924066a9a1638f70d
