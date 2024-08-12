@@ -1,8 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="2" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png", ESPN HD | EC
-http://45.179.164.30:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="America Estereo" tvg-logo="https://cdn.m3u.cl/logo/95_America_Estereo.png", America Estereo | EC
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://cdn.m3u.cl/logo/97_Canela_TV.png", Canela TV | EC
